@@ -1,2 +1,3 @@
 1. Look for Test Case Challenge folder among the pulled files
 2. Open the folder and you should see the PDF there
+3. PDF is split in two pages. (One is movement, second is interactions)
