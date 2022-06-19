@@ -1,0 +1,13 @@
+1. Open Unity Challenge Folder in the Unity Hub
+2. Press the play button located above the scene viewer, starting the Trash Dash game
+
+Test 5 lives:
+1. Select Run menu button with mouse and game should start
+2. Use the arrows keys to move left and right, as well as jump and slide.
+3. If you collide with an obstacle you will lose a life.
+4. When you hit 5, the game ends. 
+
+To see Mission list:
+1. There's a menu button located at the bottom of the game screen. Whether it's on the main menu or game over screen.
+2. Click to open with mouse. 
+3. To scroll up and down, click and hold mouse and move up or down. 
