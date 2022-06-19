@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JP Ortega\\Repos\\UkenQAChallenge\\C#Challenge\\QAEngineerChallenge.csproj": {}
+    "C:\\Users\\JP Ortega\\Repos\\UkenQAChallenge\\C# Challenge\\QAEngineerChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JP Ortega\\Repos\\UkenQAChallenge\\C#Challenge\\QAEngineerChallenge.csproj": {
+    "C:\\Users\\JP Ortega\\Repos\\UkenQAChallenge\\C# Challenge\\QAEngineerChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JP Ortega\\Repos\\UkenQAChallenge\\C#Challenge\\QAEngineerChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\JP Ortega\\Repos\\UkenQAChallenge\\C# Challenge\\QAEngineerChallenge.csproj",
         "projectName": "QAEngineerChallenge",
-        "projectPath": "C:\\Users\\JP Ortega\\Repos\\UkenQAChallenge\\C#Challenge\\QAEngineerChallenge.csproj",
+        "projectPath": "C:\\Users\\JP Ortega\\Repos\\UkenQAChallenge\\C# Challenge\\QAEngineerChallenge.csproj",
         "packagesPath": "C:\\Users\\JP Ortega\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JP Ortega\\Repos\\UkenQAChallenge\\C#Challenge\\obj\\",
+        "outputPath": "C:\\Users\\JP Ortega\\Repos\\UkenQAChallenge\\C# Challenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -51,7 +51,10 @@ class LeastRepeatedNumber
 
         }
 
-        Console.WriteLine("File: " + file + ", Number: " + answer + ", Repeated: " + lowestCount);
+        // Trims the file output string
+        string fileTrim = file.Remove(0,13);
+
+        Console.WriteLine("File: " + fileTrim + ", Number: " + answer + ", Repeated: " + lowestCount);
     }
     static void Main(string[] args)
     {
