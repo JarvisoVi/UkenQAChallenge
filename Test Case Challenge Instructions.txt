@@ -1,0 +1,2 @@
+1. Look for Test Case Challenge folder among the pulled files
+2. Open the folder and you should see the PDF there
